@@ -18,6 +18,15 @@ Job Stack is a comprehensive and user-friendly job enlisting system developed us
 2. Google Firebase: Cloud Firestore in Google Firebase is employed as the backend database, offering efficient storage and retrieval of user, company, and job-related data
 
 # Here is an overview of the APPLICATION
+
+![GIF](https://github.com/govind978/Job-Stack-Application/assets/68467567/c06e4108-df4c-4b36-9e53-1e8badb5e462)
+
+
+
+
+
+
+
 ![WhatsApp Image 2023-09-11 at 00 19 37](https://github.com/govind978/Job-Stack-Application/assets/68467567/3671e1af-5f13-4f23-b2a2-4bbff682aa09)
 ![WhatsApp Image 2023-09-11 at 00 19 17](https://github.com/govind978/Job-Stack-Application/assets/68467567/bd0b0758-40f7-43ec-be91-1bb43f913e68)
 ![WhatsApp Image 2023-09-11 at 00 18 23](https://github.com/govind978/Job-Stack-Application/assets/68467567/608ccad7-e6e5-4417-8f46-1c13a77618d2)
