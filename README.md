@@ -1,6 +1,6 @@
-# Job Stack Android App
+# Job Portal Android App
 
-Job Stack is a comprehensive and user-friendly job enlisting system developed using Java and Google Firebase. With its intuitive login portal, both job seekers and companies can easily register and interact within the system. The powerful Cloud Firestore in Google Firebase is leveraged to efficiently manage the database, ensuring seamless storage and retrieval of data. Job seekers can create accounts, submit their personal and professional details, and browse through job listings. Companies can register by providing the necessary information and post job openings. The system enables job seekers to apply for jobs, while companies can view applicant profiles. The integration of Firebase ensures a reliable and scalable platform for effective job management.
+This is a comprehensive and user-friendly job enlisting system developed using Java and Google Firebase. With its intuitive login portal, both job seekers and companies can easily register and interact within the system. The powerful Cloud Firestore in Google Firebase is leveraged to efficiently manage the database, ensuring seamless storage and retrieval of data. Job seekers can create accounts, submit their personal and professional details, and browse through job listings. Companies can register by providing the necessary information and post job openings. The system enables job seekers to apply for jobs, while companies can view applicant profiles. The integration of Firebase ensures a reliable and scalable platform for effective job management.
 
 # Key Functionalities:
 
